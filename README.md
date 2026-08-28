@@ -159,3 +159,17 @@ Nginx Container
 AWS EC2
    ↓
 HTTP 200 OK
+
+
+## Project Screenshots / Evidence
+
+The following screenshots provide evidence of the project implementation:
+
+1. **Git & GitHub** – Git branch creation, commit, and code push.
+2. **Docker** – Dockerfile and Docker image build.
+3. **Docker Hub** – Docker image tagging and push to Docker Hub.
+4. **AWS EC2** – Application deployed on an AWS EC2 instance.
+5. **Security Group** – AWS inbound security group configuration.
+6. **Jenkins** – Jenkins CI/CD pipeline execution and GitHub checkout.
+7. **Deployment** – Docker Compose application deployment.
+8. **Application / cURL Testing** – Application accessibility and successful cURL/HTTP testing.
